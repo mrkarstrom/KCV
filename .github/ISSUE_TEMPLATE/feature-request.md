@@ -24,4 +24,4 @@ assignees: ''
 
 ### **Status**
 
-- [ ] \*\*Steg 1: Första steget är nu slutfört!
+- [ ] **Steg 1:** Första steget är nu slutfört!
