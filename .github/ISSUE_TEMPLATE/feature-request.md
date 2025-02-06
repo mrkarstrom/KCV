@@ -8,7 +8,7 @@ assignees: ''
 
 **Som en:**
 
-**Jag skulle vilja:**
+**Vill jag:**
 
 **För syftet att:**
 
@@ -22,4 +22,6 @@ assignees: ''
 
 ---
 
-- [ ] Steg 1 är nu slutfört!
+### **Status**
+
+- [ ] \*\*Steg 1: Första steget är nu slutfört!
