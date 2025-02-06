@@ -115,8 +115,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus dui neque.
 - **Linjer**:  
   0.5 punkters streck  
   0.5 punkters punktad linje
-  
-- **Ikoner**:  
-  En samling ikoner som ska användas på olika sidor.
-
-Hoppas detta nu fungerar för dig i det format du vill använda.
