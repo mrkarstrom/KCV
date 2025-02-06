@@ -50,9 +50,3 @@ Det ska vara enkelt för besökare att kontakta församlingen. En sektion med ko
 ### 12. Tydligt uppdrag och vision
 Hemsidan ska kommunicera församlingens mission och vision, och förklara hur församlingen vill göra skillnad i samhället och världen. Detta ger besökare en klar bild av församlingens mål och värderingar.
 
-
-## Nästa steg
-
-1. Bestäm arbetsfördelning och tidsplan för utvecklingen.
-2. Arbeta fram designförslag och få godkännande från församlingen.
-3. Starta utveckling och implementering av hemsidan.
